@@ -1,0 +1,3 @@
+D:/analisis numerico/GTP3/cmake-build-debug/CMakeFiles/GTP3.dir
+D:/analisis numerico/GTP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/analisis numerico/GTP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
